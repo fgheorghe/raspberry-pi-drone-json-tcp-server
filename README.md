@@ -2,7 +2,7 @@ Drone JSON-TCP server.
 
 # Installation Instructions #
 
-Requires nodejs and npm: http://weworkweplay.com/play/raspberry-pi-nodejs/
+Requires ServoBlaster (https://github.com/richardghirst/PiBits/tree/master/ServoBlaster), nodejs and npm: http://weworkweplay.com/play/raspberry-pi-nodejs/
 
 On drone Raspberry Pi issue:
 
